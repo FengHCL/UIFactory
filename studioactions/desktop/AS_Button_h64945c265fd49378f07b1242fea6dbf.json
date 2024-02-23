@@ -1,0 +1,34 @@
+{
+    "AS_Button_h64945c265fd49378f07b1242fea6dbf": {
+        "id": "AS_Button_h64945c265fd49378f07b1242fea6dbf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMain",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e2f13654ab8148c4818ecd3058d7a441"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__a0ba0fda4b494c3595225cf10943013a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addTile",
+            "display": "addTile",
+            "inputparams": [{
+                "name": "glass",
+                "value": "this.tiles[0]"
+            }, {
+                "name": "index",
+                "value": "0"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

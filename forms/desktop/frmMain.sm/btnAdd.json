@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "976dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1e2e1472ded461e9fcc05ac2845af9e",
+    "_text_": "Add New Tile",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1f70ef6c50c4f11bd12de2521bbc924",
+    "id": "btnAdd",
+    "ide_onClick": "AS_Button_h64945c265fd49378f07b1242fea6dbf",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b062954350ee46f1ac7e4bb4e1e4206a",
+    "name": "kony.ui.Button",
+    "parent": "flxFooter",
+    "pf": "frmMain",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}
